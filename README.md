@@ -1,5 +1,5 @@
 # POO_SistemaVcRiquinho
-College disciple POO activity VcRiquinho investment office, Payment System
+College disciple POO activity VcRiquinho investment office, Investment System
 
 # Collaborators
 <ul>
